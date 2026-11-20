@@ -1,8 +1,8 @@
-# world-in-one-day.git
+# world-in-one-day
 
 [![make.fun · news-image-20261119](https://make.fun/badge/news-image-20261119.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
-[![rank](https://make.fun/badge/news-image-20261119/flazzyde/world-in-one-day.git/rank.svg)](https://make.fun/bounty/news-image-20261119/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
-[![reward](https://make.fun/badge/news-image-20261119/flazzyde/world-in-one-day.git/reward.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![rank](https://make.fun/badge/news-image-20261119/flazzyde/world-in-one-day/rank.svg)](https://make.fun/bounty/news-image-20261119/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![reward](https://make.fun/badge/news-image-20261119/flazzyde/world-in-one-day/reward.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
 
 Renders 19 November 2026 as one newspaper front page: 39 verified stories from every continent, drawn by a small Node program.
 
