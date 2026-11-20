@@ -1,8 +1,9 @@
-// Thursday 19 November 2026 — the day's news as one front page.
+// Thursday 19 November 2026 — the day in eight numbers.
 //
 // The entry is the image beside this file: design/front-page.html is its source,
 // rendered once to entry.png (1024x1024, under 1 MiB). This program copies those
 // exact bytes to /output/entry.png, so both runs of the grader write the same file.
+// Earlier layouts that were tried and measured are kept in design/variants/.
 //
 // Outside the grader's container, MAKEFUN_OUTPUT_DIR stands in for /output:
 //   mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts
